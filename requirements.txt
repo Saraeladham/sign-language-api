@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+mediapipe
+python-multipart
